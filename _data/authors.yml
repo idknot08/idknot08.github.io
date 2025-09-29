@@ -1,0 +1,9 @@
+john_doe:
+  name: John Doe
+  twitter: johndoe
+  url: https://example.com/johndoe
+
+jane_smith:
+  name: Jane Smith
+  twitter: janesmith
+  url: https://example.com/janesmith
