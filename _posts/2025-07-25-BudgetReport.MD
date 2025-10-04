@@ -1,6 +1,6 @@
 ---
 title: Budget-report.exe
-date: 2025-6-25 08:30:00 +0700
+date: 2025-07-25 08:30:00 +0700
 categories: [Malware Analysis, Dynamic]
 tags: [persistence, c2, trojan, backdoor]
 description: Phân tích hành vi runtime của mẫu mã độc budget-report.exe cơ chế persistence, kết nối C2, và đánh giá khả năng là backdoor/beacon trojan.

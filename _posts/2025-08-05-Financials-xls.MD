@@ -1,6 +1,6 @@
 ---
 title: Financials-xls.exe
-date: 2025-07-05 11:30:00 +0700
+date: 2025-08-05 11:30:00 +0700
 categories: [Malware Analysis, Dynamic]
 tags: [persistence, fakealert, trojan, downloader]
 description: Phân tích hành vi của mẫu mã độc financials-xls.exe – dạng trojan FakeAlert, có persistence và khả năng tải xuống BraveSentry.
